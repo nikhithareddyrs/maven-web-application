@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.86.26:8081/repository/amazon-release/</url>
+	      <url>http://http://13.233.60.19:8081/repository/amazon-release/;;</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.86.26:8081/repository/amazon-snapshot/</url>
+	      <url>http://13.233.60.19:8081/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
